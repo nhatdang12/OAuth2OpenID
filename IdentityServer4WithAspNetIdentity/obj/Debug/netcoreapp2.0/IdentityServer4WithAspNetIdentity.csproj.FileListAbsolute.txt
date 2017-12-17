@@ -1,0 +1,36 @@
+c:\users\mrphong\documents\visual studio 2017\Projects\OAuth2OpenIDConnect\IdentityServer4WithAspNetIdentity\bin\Debug\netcoreapp2.0\IdentityServer4WithAspNetIdentity.deps.json
+c:\users\mrphong\documents\visual studio 2017\Projects\OAuth2OpenIDConnect\IdentityServer4WithAspNetIdentity\bin\Debug\netcoreapp2.0\IdentityServer4WithAspNetIdentity.runtimeconfig.json
+c:\users\mrphong\documents\visual studio 2017\Projects\OAuth2OpenIDConnect\IdentityServer4WithAspNetIdentity\bin\Debug\netcoreapp2.0\IdentityServer4WithAspNetIdentity.runtimeconfig.dev.json
+c:\users\mrphong\documents\visual studio 2017\Projects\OAuth2OpenIDConnect\IdentityServer4WithAspNetIdentity\bin\Debug\netcoreapp2.0\IdentityServer4WithAspNetIdentity.dll
+c:\users\mrphong\documents\visual studio 2017\Projects\OAuth2OpenIDConnect\IdentityServer4WithAspNetIdentity\obj\Debug\netcoreapp2.0\IdentityServer4WithAspNetIdentity.csprojResolveAssemblyReference.cache
+c:\users\mrphong\documents\visual studio 2017\Projects\OAuth2OpenIDConnect\IdentityServer4WithAspNetIdentity\obj\Debug\netcoreapp2.0\IdentityServer4WithAspNetIdentity.csproj.CoreCompileInputs.cache
+c:\users\mrphong\documents\visual studio 2017\Projects\OAuth2OpenIDConnect\IdentityServer4WithAspNetIdentity\obj\Debug\netcoreapp2.0\IdentityServer4WithAspNetIdentity.AssemblyInfoInputs.cache
+c:\users\mrphong\documents\visual studio 2017\Projects\OAuth2OpenIDConnect\IdentityServer4WithAspNetIdentity\obj\Debug\netcoreapp2.0\IdentityServer4WithAspNetIdentity.AssemblyInfo.cs
+c:\users\mrphong\documents\visual studio 2017\Projects\OAuth2OpenIDConnect\IdentityServer4WithAspNetIdentity\bin\Debug\netcoreapp2.0\IdentityServer4WithAspNetIdentity.pdb
+c:\users\mrphong\documents\visual studio 2017\Projects\OAuth2OpenIDConnect\IdentityServer4WithAspNetIdentity\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+c:\users\mrphong\documents\visual studio 2017\Projects\OAuth2OpenIDConnect\IdentityServer4WithAspNetIdentity\obj\Debug\netcoreapp2.0\IdentityServer4WithAspNetIdentity.dll
+c:\users\mrphong\documents\visual studio 2017\Projects\OAuth2OpenIDConnect\IdentityServer4WithAspNetIdentity\obj\Debug\netcoreapp2.0\IdentityServer4WithAspNetIdentity.pdb
+C:\Users\Phong\Documents\Visual Studio 2017\Projects\OAuth2OpenIDConnect\IdentityServer4WithAspNetIdentity\bin\Debug\netcoreapp2.0\IdentityServer4WithAspNetIdentity.deps.json
+C:\Users\Phong\Documents\Visual Studio 2017\Projects\OAuth2OpenIDConnect\IdentityServer4WithAspNetIdentity\bin\Debug\netcoreapp2.0\IdentityServer4WithAspNetIdentity.runtimeconfig.json
+C:\Users\Phong\Documents\Visual Studio 2017\Projects\OAuth2OpenIDConnect\IdentityServer4WithAspNetIdentity\bin\Debug\netcoreapp2.0\IdentityServer4WithAspNetIdentity.runtimeconfig.dev.json
+C:\Users\Phong\Documents\Visual Studio 2017\Projects\OAuth2OpenIDConnect\IdentityServer4WithAspNetIdentity\bin\Debug\netcoreapp2.0\IdentityServer4WithAspNetIdentity.dll
+C:\Users\Phong\Documents\Visual Studio 2017\Projects\OAuth2OpenIDConnect\IdentityServer4WithAspNetIdentity\bin\Debug\netcoreapp2.0\IdentityServer4WithAspNetIdentity.pdb
+C:\Users\Phong\Documents\Visual Studio 2017\Projects\OAuth2OpenIDConnect\IdentityServer4WithAspNetIdentity\obj\Debug\netcoreapp2.0\IdentityServer4WithAspNetIdentity.csprojResolveAssemblyReference.cache
+C:\Users\Phong\Documents\Visual Studio 2017\Projects\OAuth2OpenIDConnect\IdentityServer4WithAspNetIdentity\obj\Debug\netcoreapp2.0\IdentityServer4WithAspNetIdentity.csproj.CoreCompileInputs.cache
+C:\Users\Phong\Documents\Visual Studio 2017\Projects\OAuth2OpenIDConnect\IdentityServer4WithAspNetIdentity\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Phong\Documents\Visual Studio 2017\Projects\OAuth2OpenIDConnect\IdentityServer4WithAspNetIdentity\obj\Debug\netcoreapp2.0\IdentityServer4WithAspNetIdentity.AssemblyInfoInputs.cache
+C:\Users\Phong\Documents\Visual Studio 2017\Projects\OAuth2OpenIDConnect\IdentityServer4WithAspNetIdentity\obj\Debug\netcoreapp2.0\IdentityServer4WithAspNetIdentity.AssemblyInfo.cs
+C:\Users\Phong\Documents\Visual Studio 2017\Projects\OAuth2OpenIDConnect\IdentityServer4WithAspNetIdentity\obj\Debug\netcoreapp2.0\IdentityServer4WithAspNetIdentity.dll
+C:\Users\Phong\Documents\Visual Studio 2017\Projects\OAuth2OpenIDConnect\IdentityServer4WithAspNetIdentity\obj\Debug\netcoreapp2.0\IdentityServer4WithAspNetIdentity.pdb
+D:\Projects\OAuth2OpenIDConnect\IdentityServer4WithAspNetIdentity\bin\Debug\netcoreapp2.0\IdentityServer4WithAspNetIdentity.deps.json
+D:\Projects\OAuth2OpenIDConnect\IdentityServer4WithAspNetIdentity\bin\Debug\netcoreapp2.0\IdentityServer4WithAspNetIdentity.runtimeconfig.json
+D:\Projects\OAuth2OpenIDConnect\IdentityServer4WithAspNetIdentity\bin\Debug\netcoreapp2.0\IdentityServer4WithAspNetIdentity.runtimeconfig.dev.json
+D:\Projects\OAuth2OpenIDConnect\IdentityServer4WithAspNetIdentity\bin\Debug\netcoreapp2.0\IdentityServer4WithAspNetIdentity.dll
+D:\Projects\OAuth2OpenIDConnect\IdentityServer4WithAspNetIdentity\bin\Debug\netcoreapp2.0\IdentityServer4WithAspNetIdentity.pdb
+D:\Projects\OAuth2OpenIDConnect\IdentityServer4WithAspNetIdentity\obj\Debug\netcoreapp2.0\IdentityServer4WithAspNetIdentity.csproj.CoreCompileInputs.cache
+D:\Projects\OAuth2OpenIDConnect\IdentityServer4WithAspNetIdentity\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\Projects\OAuth2OpenIDConnect\IdentityServer4WithAspNetIdentity\obj\Debug\netcoreapp2.0\IdentityServer4WithAspNetIdentity.AssemblyInfoInputs.cache
+D:\Projects\OAuth2OpenIDConnect\IdentityServer4WithAspNetIdentity\obj\Debug\netcoreapp2.0\IdentityServer4WithAspNetIdentity.AssemblyInfo.cs
+D:\Projects\OAuth2OpenIDConnect\IdentityServer4WithAspNetIdentity\obj\Debug\netcoreapp2.0\IdentityServer4WithAspNetIdentity.dll
+D:\Projects\OAuth2OpenIDConnect\IdentityServer4WithAspNetIdentity\obj\Debug\netcoreapp2.0\IdentityServer4WithAspNetIdentity.pdb
+D:\Projects\OAuth2OpenIDConnect\IdentityServer4WithAspNetIdentity\obj\Debug\netcoreapp2.0\IdentityServer4WithAspNetIdentity.csprojResolveAssemblyReference.cache

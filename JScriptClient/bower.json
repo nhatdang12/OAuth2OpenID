@@ -1,0 +1,8 @@
+{
+  "name": "asp.net",
+  "private": true,
+  "dependencies": {
+    "oidc-client": "1.4.1",
+    "jquery": "3.2.1"
+  }
+}

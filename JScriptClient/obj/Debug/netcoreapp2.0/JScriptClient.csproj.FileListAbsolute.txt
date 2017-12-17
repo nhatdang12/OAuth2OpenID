@@ -1,0 +1,22 @@
+C:\Users\MrPhong\documents\visual studio 2017\Projects\OAuth2OpenIDConnect\JScriptClient\bin\Debug\netcoreapp2.0\JScriptClient.deps.json
+C:\Users\MrPhong\documents\visual studio 2017\Projects\OAuth2OpenIDConnect\JScriptClient\bin\Debug\netcoreapp2.0\JScriptClient.runtimeconfig.json
+C:\Users\MrPhong\documents\visual studio 2017\Projects\OAuth2OpenIDConnect\JScriptClient\bin\Debug\netcoreapp2.0\JScriptClient.runtimeconfig.dev.json
+C:\Users\MrPhong\documents\visual studio 2017\Projects\OAuth2OpenIDConnect\JScriptClient\bin\Debug\netcoreapp2.0\JScriptClient.dll
+C:\Users\MrPhong\documents\visual studio 2017\Projects\OAuth2OpenIDConnect\JScriptClient\obj\Debug\netcoreapp2.0\JScriptClient.csprojResolveAssemblyReference.cache
+C:\Users\MrPhong\documents\visual studio 2017\Projects\OAuth2OpenIDConnect\JScriptClient\obj\Debug\netcoreapp2.0\JScriptClient.csproj.CoreCompileInputs.cache
+C:\Users\MrPhong\documents\visual studio 2017\Projects\OAuth2OpenIDConnect\JScriptClient\obj\Debug\netcoreapp2.0\JScriptClient.AssemblyInfoInputs.cache
+C:\Users\MrPhong\documents\visual studio 2017\Projects\OAuth2OpenIDConnect\JScriptClient\obj\Debug\netcoreapp2.0\JScriptClient.AssemblyInfo.cs
+C:\Users\MrPhong\documents\visual studio 2017\Projects\OAuth2OpenIDConnect\JScriptClient\bin\Debug\netcoreapp2.0\JScriptClient.pdb
+C:\Users\MrPhong\documents\visual studio 2017\Projects\OAuth2OpenIDConnect\JScriptClient\obj\Debug\netcoreapp2.0\JScriptClient.dll
+C:\Users\MrPhong\documents\visual studio 2017\Projects\OAuth2OpenIDConnect\JScriptClient\obj\Debug\netcoreapp2.0\JScriptClient.pdb
+D:\Projects\OAuth2OpenIDConnect\JScriptClient\bin\Debug\netcoreapp2.0\JScriptClient.deps.json
+D:\Projects\OAuth2OpenIDConnect\JScriptClient\bin\Debug\netcoreapp2.0\JScriptClient.runtimeconfig.json
+D:\Projects\OAuth2OpenIDConnect\JScriptClient\bin\Debug\netcoreapp2.0\JScriptClient.runtimeconfig.dev.json
+D:\Projects\OAuth2OpenIDConnect\JScriptClient\bin\Debug\netcoreapp2.0\JScriptClient.dll
+D:\Projects\OAuth2OpenIDConnect\JScriptClient\bin\Debug\netcoreapp2.0\JScriptClient.pdb
+D:\Projects\OAuth2OpenIDConnect\JScriptClient\obj\Debug\netcoreapp2.0\JScriptClient.csproj.CoreCompileInputs.cache
+D:\Projects\OAuth2OpenIDConnect\JScriptClient\obj\Debug\netcoreapp2.0\JScriptClient.AssemblyInfoInputs.cache
+D:\Projects\OAuth2OpenIDConnect\JScriptClient\obj\Debug\netcoreapp2.0\JScriptClient.AssemblyInfo.cs
+D:\Projects\OAuth2OpenIDConnect\JScriptClient\obj\Debug\netcoreapp2.0\JScriptClient.dll
+D:\Projects\OAuth2OpenIDConnect\JScriptClient\obj\Debug\netcoreapp2.0\JScriptClient.pdb
+D:\Projects\OAuth2OpenIDConnect\JScriptClient\obj\Debug\netcoreapp2.0\JScriptClient.csprojResolveAssemblyReference.cache

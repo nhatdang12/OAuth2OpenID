@@ -1,0 +1,5 @@
+D:\Projects\OAuth2OpenIDConnect\APIClient
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=APIClient
+--content-root=D:\Projects\OAuth2OpenIDConnect\APIClient
+--file=

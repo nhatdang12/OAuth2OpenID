@@ -1,0 +1,11 @@
+D:\Projects\OAuth2OpenIDConnect\APIClient\bin\Debug\netcoreapp2.0\APIClient.deps.json
+D:\Projects\OAuth2OpenIDConnect\APIClient\bin\Debug\netcoreapp2.0\APIClient.runtimeconfig.json
+D:\Projects\OAuth2OpenIDConnect\APIClient\bin\Debug\netcoreapp2.0\APIClient.runtimeconfig.dev.json
+D:\Projects\OAuth2OpenIDConnect\APIClient\bin\Debug\netcoreapp2.0\APIClient.dll
+D:\Projects\OAuth2OpenIDConnect\APIClient\obj\Debug\netcoreapp2.0\APIClient.csproj.CoreCompileInputs.cache
+D:\Projects\OAuth2OpenIDConnect\APIClient\obj\Debug\netcoreapp2.0\APIClient.AssemblyInfoInputs.cache
+D:\Projects\OAuth2OpenIDConnect\APIClient\obj\Debug\netcoreapp2.0\APIClient.AssemblyInfo.cs
+D:\Projects\OAuth2OpenIDConnect\APIClient\bin\Debug\netcoreapp2.0\APIClient.pdb
+D:\Projects\OAuth2OpenIDConnect\APIClient\obj\Debug\netcoreapp2.0\APIClient.dll
+D:\Projects\OAuth2OpenIDConnect\APIClient\obj\Debug\netcoreapp2.0\APIClient.pdb
+D:\Projects\OAuth2OpenIDConnect\APIClient\obj\Debug\netcoreapp2.0\APIClient.csprojResolveAssemblyReference.cache
